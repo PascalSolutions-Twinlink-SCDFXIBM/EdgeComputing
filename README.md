@@ -78,4 +78,4 @@ After the video has been processed, the frames from the video was reduced and th
 
 ## Sample Video of Fire Detection Demo
 
-To view the demo please click this link -> ![Fire detection Demo(https://drive.google.com/file/d/1kFbzqTiDxE5WLP9V36rQJeW2_UVv5XxN/view?usp=sharing)
+To view the demo please click this link -> ![Fire detection Demo](https://drive.google.com/file/d/1kFbzqTiDxE5WLP9V36rQJeW2_UVv5XxN/view?usp=sharing)
