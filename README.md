@@ -47,6 +47,7 @@ pip install glob2
 pip install numpy
 ```
 
+
 ### Jupyter Notebooks
 
 The code included in this code pattern runs in a Jupyter Notebook. The notebook itself does not require PowerAI or Power Systems (only access to the deployed API). To run the Jupyter Notebook locally, install it using Anaconda.  The installation instructions are [here](https://jupyter.readthedocs.io/en/latest/install.html).
@@ -80,4 +81,3 @@ After the video has been processed, the frames from the video was reduced and th
 
 To view the demo please click this link -> [Fire detection Demo](https://drive.google.com/file/d/1kFbzqTiDxE5WLP9V36rQJeW2_UVv5XxN/view?usp=sharing)
 
-<iframe src="https://drive.google.com/file/d/1kFbzqTiDxE5WLP9V36rQJeW2_UVv5XxN/preview" width="640" height="480"></iframe>
